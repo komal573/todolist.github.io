@@ -6,9 +6,9 @@
 
 body {
   background-image: linear-gradient(120deg, #5f789f, #1b3980);
-  color: white;
+  color: yellow;
   font-family: "Poppins", sans-serif;
-  min-height: 100vh;
+  min-height: 200vh;
 }
 
 header {
